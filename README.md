@@ -10,7 +10,7 @@ You will need a standard C++11 (or newer) compiler. This works perfectly with `g
 To compile the program, open your terminal in the directory where the source code is located and run this command. I highly recommend using the `-O2` flag, as it tells the compiler to optimize the code for speed, making a huge difference on massive datasets!
 
 ```bash
-g++ -O2 230994_Shubh.cpp -o analyzer
+g++ -O2 main.cpp -o analyzer
 ```
 
 ## Execution Examples
