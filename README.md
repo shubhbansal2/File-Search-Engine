@@ -1,4 +1,5 @@
-# README: C++ Assignment
+# README: C++ File Search Engine
+
 
 ## Prerequisites
 
